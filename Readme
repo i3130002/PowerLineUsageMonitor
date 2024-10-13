@@ -1,4 +1,13 @@
-Power line Monitor
+# Power line Monitor
+
+# Mobile view dashboard:
+![Image1](./Image1.jpeg)
+
+# Crude POC
+![Image2](./Image2.jpeg)
+
+# Related links
+[Related Links](./RelatedLinks.html)
 
 Init vscode config
 pio init --ide=vscode
