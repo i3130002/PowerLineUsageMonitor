@@ -1,13 +1,13 @@
 # Power line Monitor
 
 # Mobile view dashboard:
-![Image1](Image1.jpeg)
+![Image1](Assets/Image1.jpeg)
 
 # Crude POC
-![Image2](Image2.jpeg)
+![Image2](Assets/Image2.jpeg)
 
 # Related links
-[Related Links](RelatedLinks.html)
+[Related Links](Assets/RelatedLinks.html)
 
 Init vscode config
 pio init --ide=vscode
